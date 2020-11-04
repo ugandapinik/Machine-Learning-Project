@@ -1,5 +1,5 @@
 # MACHINE LEARNING - PROJECT
-The purpose of this assignment is using TensorFlow to create a Deep Neural Network model to categorize the Street View House Numbers (SVHN).
+The purpose of this project is using TensorFlow to create a Deep Neural Network model to categorize the Street View House Numbers (SVHN).
 We collect the dataset from http://ufldl.stanford.edu/housenumbers  and use Street View House Number ( SVHN) Dataset (Format 2) for this assignment. This dataset contains over 600,000 labeled digits cropped from street photos. The ability to automatically transcribe those address from a geo-located patch of pixels and associate the copied number with a known street address helps pinpoint the location of the building it represents.
 
 # Screenshot
